@@ -1,0 +1,16 @@
+GetDeveloperNews give me developer news
+GetDeveloperNews give developer news
+GetDeveloperNews give me latest news
+GetDeveloperNews give news
+GetDeveloperNews tell me developer news
+GetDeveloperNews tell developer news
+GetDeveloperNews tell me latest news
+GetDeveloperNews tell news
+
+NewsInfo give details
+NewsInfo give more details
+NewsInfo details
+NewsInfo more details
+NewsInfo give me details
+NewsInfo tell me details
+NewsInfo tell details
