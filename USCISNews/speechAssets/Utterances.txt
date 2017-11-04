@@ -1,0 +1,14 @@
+GetLatestNews give me latest news
+GetLatestNews give news
+GetLatestNews give me news
+GetLatestNews tell me latest news
+GetLatestNews tell news
+GetLatestNews tell me news
+
+NewsInfo give details
+NewsInfo give more details
+NewsInfo details
+NewsInfo more details
+NewsInfo give me details
+NewsInfo tell me details
+NewsInfo tell details
