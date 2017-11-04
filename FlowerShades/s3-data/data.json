@@ -1,0 +1,292 @@
+{ "white": [
+    { 
+        "name" : "Heliotrope",
+        "scientificName": "Heliotropium peruvianum",
+        "shortDescription" : "Heliotropes are bushy annuals with tiny cluster of blue, white or purple flowers. They have a strong perfume and very deep green leaves. Several heliotropes are popular garden plants, most notably garden heliotrope",
+        "smallImageUrl": "https://s3.amazonaws.com/flowershades/assets/images/white/Heliotropium_Small.jpg",
+        "largeImageUrl": "https://s3.amazonaws.com/flowershades/assets/images/white/Heliotropium_Large.jpg"
+    },
+    { 
+        "name" : "Petunia",
+        "scientificName": "Petunia hybrida",
+        "shortDescription" : "Petunia are found with 35 true species worldwide. Hybrid Petunias can be found in almost any color. The most traditional varieties are sprawling plants with white or purple blooms. Petunias can tolerate relatively harsh conditions and hot climates.",
+        "smallImageUrl": "https://s3.amazonaws.com/flowershades/assets/images/white/Petunia_Axillaris_Small.jpg",
+        "largeImageUrl": "https://s3.amazonaws.com/flowershades/assets/images/white/Petunia_Axillaris_Large.jpg"
+    },
+    { 
+        "name" : "Scabiosa",
+        "scientificName": "Scabiosa",
+        "shortDescription" : "Scabiosa is an interesting flower with a pincushion-like center and an outer layer of petals.This summer bloomer can be found most often in shades of blue, white and purple.",
+        "smallImageUrl": "https://s3.amazonaws.com/flowershades/assets/images/white/Scabiosa_Small.jpg",
+        "largeImageUrl": "https://s3.amazonaws.com/flowershades/assets/images/white/Scabiosa_Large.jpg"
+    },
+    { 
+        "name" : "Wisteria",
+        "scientificName": "Wisteria sinensis",
+        "shortDescription" : "Wisteria is known for its intoxicating fragrance, but this quick climber also has and abundance of cascading blooms. Colors range from white and blue to violet.",
+        "smallImageUrl": "https://s3.amazonaws.com/flowershades/assets/images/white/Wisteria_Small.jpg",
+        "largeImageUrl": "https://s3.amazonaws.com/flowershades/assets/images/white/Wisteria_Large.jpg"
+    },
+    { 
+        "name" : "Rosa",
+        "scientificName": "Rosa",
+        "shortDescription" : "With over 2,000 varieties and hundreds of years of cultivation, the rose has an extensive family and a long history. Old roses, which are classified as existing prior to the 1867 tea rose, generally have more fragrance, more complicated blooms and greater disease resistance. Modern roses offer an endless color selection and all-season blooms.",
+        "smallImageUrl": "https://s3.amazonaws.com/flowershades/assets/images/white/Rosa_Small.jpg",
+        "largeImageUrl": "https://s3.amazonaws.com/flowershades/assets/images/white/Rosa_Large.jpg"
+    }
+],
+"yellow" : [
+    { 
+        "name" : "Hellebores",
+        "scientificName": "Helleborus",
+        "shortDescription" : "Helleborus is a perennial with leathery leaves that protect a circle of tiny stamen-like petals. They have a long blooming period, lasting anywhere from 6 to 8 weeks and ranging in color from white to purple.",
+        "smallImageUrl": "https://s3.amazonaws.com/flowershades/assets/images/yellow/Hellebores_Small.jpg",
+        "largeImageUrl": "https://s3.amazonaws.com/flowershades/assets/images/yellow/Hellebores_Large.jpg"
+    },
+    { 
+        "name" : "Marigold",
+        "scientificName": "Tagetes",
+        "shortDescription" : "Marigolds are popular annuals. Their popularity likely comes from their bright colors and ability to bloom all summer long. They have carnation-like flower heads with thick layers of ruffled petals.",
+        "smallImageUrl": "https://s3.amazonaws.com/flowershades/assets/images/yellow/Marigold_Small.jpg",
+        "largeImageUrl": "https://s3.amazonaws.com/flowershades/assets/images/yellow/Marigold_Large.jpg"
+    },
+    { 
+        "name" : "Lilium",
+        "scientificName": "Lilium",
+        "shortDescription" : "Lilies are one of the most popular flowers for floral arrangements because of their large showy blooms and pleasant fragrance. They have 6 trumpet-shaped petal that stand on top of a long stem.",
+        "smallImageUrl": "https://s3.amazonaws.com/flowershades/assets/images/yellow/Lilium_Small.jpg",
+        "largeImageUrl": "https://s3.amazonaws.com/flowershades/assets/images/yellow/Lilium_Large.jpg"
+    },
+    { 
+        "name" : "Daffodil",
+        "scientificName": "Narcissus",
+        "shortDescription" : "Daffodils are composed of a trumpet-like structure set against a star-shaped background. Frequently the two parts come in contrasting colors. These flowers symbolize friendship.",
+        "smallImageUrl": "https://s3.amazonaws.com/flowershades/assets/images/yellow/Daffodil_Small.jpg",
+        "largeImageUrl": "https://s3.amazonaws.com/flowershades/assets/images/yellow/Daffodil_Large.jpg"
+    },
+    { 
+        "name" : "Sunflower",
+        "scientificName": "Helianthus",
+        "shortDescription" : "Sunflowers have big, daisy-like flower faces much like that surround a brown center which will ripen and be filled with seeds. They are extremely popular as cut flowers and can often be found in floral arrangements in fall.",
+        "smallImageUrl": "https://s3.amazonaws.com/flowershades/assets/images/yellow/Sunflower_Small.jpg",
+        "largeImageUrl": "https://s3.amazonaws.com/flowershades/assets/images/yellow/Sunflower_Large.jpg"
+    }
+],
+"orange" : [
+    { 
+        "name" : "Bird of Paradise",
+        "scientificName": "Strelitzia",
+        "shortDescription" : "The Bird of Paradise flower has tropical, fan-like foliage and a crane headed bloom. They do best when grown as potted plants and kept indoors.",
+        "smallImageUrl": "https://s3.amazonaws.com/flowershades/assets/images/orange/Bird_Of_Paradise_Small.jpg",
+        "largeImageUrl": "https://s3.amazonaws.com/flowershades/assets/images/orange/Bird_Of_Paradise_Large.jpg"
+    },
+    { 
+        "name" : "Gerbera Daisy",
+        "scientificName": "Gerbera Jamesonii",
+        "shortDescription" : "Gerbera Daisies are bright and cheerful flowers which comes in many different colors. Gerbera Daisies can also range in size from 2 to 5 inches in diameter.",
+        "smallImageUrl": "https://s3.amazonaws.com/flowershades/assets/images/orange/Gerbera_Daisy_Small.jpg",
+        "largeImageUrl": "https://s3.amazonaws.com/flowershades/assets/images/orange/Gerbera_Daisy_Large.jpg"
+    },
+    { 
+        "name" : "Alstroemeria",
+        "scientificName": "Alstroemeria",
+        "shortDescription" : "Alstroemeria is a common florist favorite for good reason. The talk stems product three colorful blooms in an array of colors. Each flower has 6 petals and can be flecked, stripped or streaked with darker pigmentation.",
+        "smallImageUrl": "https://s3.amazonaws.com/flowershades/assets/images/orange/Alstroemeria_Small.jpg",
+        "largeImageUrl": "https://s3.amazonaws.com/flowershades/assets/images/orange/Alstroemeria_Large.jpg"
+    },
+    { 
+        "name" : "California Poppy",
+        "scientificName": "Eschscholzia californica",
+        "shortDescription" : "California Poppies cover the dry, grassy areas of their namesake and color valleys in orange, cup-shaped blooms.",
+        "smallImageUrl": "https://s3.amazonaws.com/flowershades/assets/images/orange/California_Poppy_Small.jpg",
+        "largeImageUrl": "https://s3.amazonaws.com/flowershades/assets/images/orange/California_Poppy_Large.jpg"
+    },
+    { 
+        "name" : "Lion's Tail",
+        "scientificName": "Leonotis leonurus",
+        "shortDescription" : "Lion's Tail, a tall perennial can add a splash of color to your garden with its bright orange flowers.",
+        "smallImageUrl": "https://s3.amazonaws.com/flowershades/assets/images/orange/Leonotis_Leonurus_Small.jpg",
+        "largeImageUrl": "https://s3.amazonaws.com/flowershades/assets/images/orange/Leonotis_Leonurus_Large.jpg"
+    }
+],
+"red" : [
+    { 
+        "name" : "Gerbera Daisy",
+        "scientificName": "Gerbera Jamesonii",
+        "shortDescription" : "Gerbera Daisies are bright and cheerful flowers which comes in many different colors. These bright and cheerful flowers come in many different colors. Gerbera Daisies can also range in size from 2 to 5 inches in diameter.",
+        "smallImageUrl": "https://s3.amazonaws.com/flowershades/assets/images/red/Gerbera_Daisy_Small.jpg",
+        "largeImageUrl": "https://s3.amazonaws.com/flowershades/assets/images/red/Gerbera_Daisy_Large.jpg"
+    },
+    { 
+        "name" : "Cockscomb",
+        "scientificName": "Celosia",
+        "shortDescription" : "Cockscomb comes either in striking upward spires or crested with a fascinating twisted form. Either variety will provide a showy pop of color.",
+        "smallImageUrl": "https://s3.amazonaws.com/flowershades/assets/images/red/Cockscomb_Small.jpg",
+        "largeImageUrl": "https://s3.amazonaws.com/flowershades/assets/images/red/Cockscomb_Large.jpg"
+    },
+    { 
+        "name" : "Dianthus",
+        "scientificName": "Dianthus",
+        "shortDescription" : "Belonging to the same family as carnations, Dianthus are colorful, hardy annuals. They emit a spicy fragrance and can most frequently be found in hues of pink, purple and white.",
+        "smallImageUrl": "https://s3.amazonaws.com/flowershades/assets/images/red/Dianthus_Small.jpg",
+        "largeImageUrl": "https://s3.amazonaws.com/flowershades/assets/images/red/Dianthus_Large.jpg"
+    },
+    { 
+        "name" : "Pentas",
+        "scientificName": "Pentas lanceolata",
+        "shortDescription" : "Pentas are one the best flowers for attracting butterflies with their starry blooms that last all summer. Their large, clustered flower heads come in many different pastel shades.",
+        "smallImageUrl": "https://s3.amazonaws.com/flowershades/assets/images/red/Pentas_Small.jpg",
+        "largeImageUrl": "https://s3.amazonaws.com/flowershades/assets/images/red/Pentas_Large.jpg"
+    },
+    { 
+        "name" : "Hibiscus",
+        "scientificName": "HIbiscus rosa-sinensis",
+        "shortDescription" : "Hibiscus flowers grown on a small tree. They are huge, trumpet-shaped blooms with dark green leaves.",
+        "smallImageUrl": "https://s3.amazonaws.com/flowershades/assets/images/red/Hibiscus_Small.jpg",
+        "largeImageUrl": "https://s3.amazonaws.com/flowershades/assets/images/red/Hibiscus_Large.jpg"
+    }
+],
+"violet" : [
+    { 
+        "name" : "Verbena",
+        "scientificName": "Verbena bonariensis",
+        "shortDescription" : "Verbena flowers blossom in shades between magenta and violet with tall clustered blooms. If taken care of, Verbena will last all summer long.",
+        "smallImageUrl": "https://s3.amazonaws.com/flowershades/assets/images/violet/Verbena_Small.jpg",
+        "largeImageUrl": "https://s3.amazonaws.com/flowershades/assets/images/violet/Verbena_Large.jpg"
+    },
+    { 
+        "name" : "Lavendar",
+        "scientificName": "Lavandula",
+        "shortDescription" : "Tiny lavender buds grow on silvery-gray spires. The fragrance produced from these little blooms can do wonders for stress relief.",
+        "smallImageUrl": "https://s3.amazonaws.com/flowershades/assets/images/violet/Lavendar_Small.jpg",
+        "largeImageUrl": "https://s3.amazonaws.com/flowershades/assets/images/violet/Lavendar_Large.jpg"
+    },
+    { 
+        "name" : "Clematis",
+        "scientificName": "Clematis",
+        "shortDescription" : "The Arabella variety of Clematis blooms in a beautiful mauve and can grow up to 30 feet tall. When flourishing, it can produce more flowers in less space than almost any other plant.",
+        "smallImageUrl": "https://s3.amazonaws.com/flowershades/assets/images/violet/Clematis_Small.jpg",
+        "largeImageUrl": "https://s3.amazonaws.com/flowershades/assets/images/violet/Clematis_Large.jpg"
+    },
+    { 
+        "name" : "Bellflower",
+        "scientificName": "Campanula",
+        "shortDescription" : "Bellflower are a charming little blossoms that are upturned, cup-shaped and that range in hues from white to lavender. Campanula make excellent ground covers and will thrive in your rock garden.",
+        "smallImageUrl": "https://s3.amazonaws.com/flowershades/assets/images/violet/Bellflower_Small.jpg",
+        "largeImageUrl": "https://s3.amazonaws.com/flowershades/assets/images/violet/Bellflower_Large.jpg"
+    },
+    { 
+        "name" : "Dwarf Iris",
+        "scientificName": "Iris Reticulata",
+        "shortDescription" : "Dwarf Irises are the petite versions of the well-known slender beauties. They bloom early and unfurl with dark, rich petals.",
+        "smallImageUrl": "https://s3.amazonaws.com/flowershades/assets/images/violet/Dwarf_Iris_Small.jpg",
+        "largeImageUrl": "https://s3.amazonaws.com/flowershades/assets/images/violet/Dwarf_Iris_Large.jpg"
+    }
+],
+"purple" : [
+    { 
+        "name" : "Verbena",
+        "scientificName": "Verbena bonariensis",
+        "shortDescription" : "Verbena flowers blossom in shades between magenta and violet with tall clustered blooms. If taken care of, Verbena will last all summer long.",
+        "smallImageUrl": "https://s3.amazonaws.com/flowershades/assets/images/violet/Verbena_Small.jpg",
+        "largeImageUrl": "https://s3.amazonaws.com/flowershades/assets/images/violet/Verbena_Large.jpg"
+    },
+    { 
+        "name" : "Lavendar",
+        "scientificName": "Lavandula",
+        "shortDescription" : "Tiny lavender buds grow on silvery-gray spires. The fragrance produced from these little blooms can do wonders for stress relief.",
+        "smallImageUrl": "https://s3.amazonaws.com/flowershades/assets/images/violet/Lavendar_Small.jpg",
+        "largeImageUrl": "https://s3.amazonaws.com/flowershades/assets/images/violet/Lavendar_Large.jpg"
+    },
+    { 
+        "name" : "Clematis",
+        "scientificName": "Clematis",
+        "shortDescription" : "The Arabella variety of Clematis blooms in a beautiful mauve and can grow up to 30 feet tall. When flourishing, it can produce more flowers in less space than almost any other plant.",
+        "smallImageUrl": "https://s3.amazonaws.com/flowershades/assets/images/violet/Clematis_Small.jpg",
+        "largeImageUrl": "https://s3.amazonaws.com/flowershades/assets/images/violet/Clematis_Large.jpg"
+    },
+    { 
+        "name" : "Bellflower",
+        "scientificName": "Campanula",
+        "shortDescription" : "Bellflower are a charming little blossoms that are upturned, cup-shaped and that range in hues from white to lavender. Campanula make excellent ground covers and will thrive in your rock garden.",
+        "smallImageUrl": "https://s3.amazonaws.com/flowershades/assets/images/violet/Bellflower_Small.jpg",
+        "largeImageUrl": "https://s3.amazonaws.com/flowershades/assets/images/violet/Bellflower_Large.jpg"
+    },
+    { 
+        "name" : "Dwarf Iris",
+        "scientificName": "Iris Reticulata",
+        "shortDescription" : "Dwarf Irises are the petite versions of the well-known slender beauties. They bloom early and unfurl with dark, rich petals.",
+        "smallImageUrl": "https://s3.amazonaws.com/flowershades/assets/images/violet/Dwarf_Iris_Small.jpg",
+        "largeImageUrl": "https://s3.amazonaws.com/flowershades/assets/images/violet/Dwarf_Iris_Large.jpg"
+    }
+],
+"blue" : [
+    { 
+        "name" : "Cornflower",
+        "scientificName": "Centaurea cyanus",
+        "shortDescription" : "Cornflowers are annuals with ruffled, bright blue blooms that attract bees and butterflies.",
+        "smallImageUrl": "https://s3.amazonaws.com/flowershades/assets/images/blue/Cornflower_Small.jpg",
+        "largeImageUrl": "https://s3.amazonaws.com/flowershades/assets/images/blue/Cornflower_Large.jpg"
+    },
+    { 
+        "name" : "Globe Thistle",
+        "scientificName": "Echinops ritro",
+        "shortDescription" : "Named after its globe-like shape, Globe Thistle is a perennial had prickly green leaves with round violet blue flower heads.",
+        "smallImageUrl": "https://s3.amazonaws.com/flowershades/assets/images/blue/Globe_Thistle_Small.jpg",
+        "largeImageUrl": "https://s3.amazonaws.com/flowershades/assets/images/blue/Globe_Thistle_Large.jpg"
+    },
+    { 
+        "name" : "Iris",
+        "scientificName": "Iris sibirica",
+        "shortDescription" : "Iris flowers grow atop attractive, grass-like leaves. The showy blooms appear in May and thrive well into June.",
+        "smallImageUrl": "https://s3.amazonaws.com/flowershades/assets/images/blue/Iris_Small.jpg",
+        "largeImageUrl": "https://s3.amazonaws.com/flowershades/assets/images/blue/Iris_Large.jpg"
+    },
+    { 
+        "name" : "Oxford Blue",
+        "scientificName": "Eryngium bourgatii",
+        "shortDescription" : "Oxford Blue forms clumps of thin leaves with prominent, white veins and cone-shaped flowers. The Flower heads are dark blue with spiny bracts.",
+        "smallImageUrl": "https://s3.amazonaws.com/flowershades/assets/images/blue/Oxford_Blue_Small.jpg",
+        "largeImageUrl": "https://s3.amazonaws.com/flowershades/assets/images/blue/Oxford_Blue_Large.jpg"
+    },
+    { 
+        "name" : "Forget-Me-Nots",
+        "scientificName": "Myosotis scorpioides",
+        "shortDescription" : "Forget Me Nots are tiny, sky-blue flowers that grow above bright green foliage in the summer. Forget-Me-Nots have either white, pink or yellow centers.",
+        "smallImageUrl": "https://s3.amazonaws.com/flowershades/assets/images/blue/Forget-Me-Nots_Small.jpg",
+        "largeImageUrl": "https://s3.amazonaws.com/flowershades/assets/images/blue/Forget-Me-Nots_Large.jpg"
+    }
+],
+"green" : [
+    { 
+        "name" : "Hellebores",
+        "scientificName": "Helleborus",
+        "shortDescription" : "Helleborus is a perennial with leathery leaves that protect a circle of tiny stamen-like petals. They have a long blooming period, lasting anywhere from 6 to 8 weeks and ranging in color from white to purple.",
+        "smallImageUrl": "https://s3.amazonaws.com/flowershades/assets/images/green/Hellebores_Small.jpg",
+        "largeImageUrl": "https://s3.amazonaws.com/flowershades/assets/images/green/Hellebores_Large.jpg"
+    },
+    { 
+        "name" : "Hypericum Berries",
+        "scientificName": "Hypericum androsaemum",
+        "shortDescription" : "Hypericum, commonly called St. John's Wort, grows between 1-3 feet tall and has large oval leaves with clustered flowers. Hypericum Berries are commonly used in flower arrangements both before they ripen and once they turn deep red.",
+        "smallImageUrl": "https://s3.amazonaws.com/flowershades/assets/images/green/Hypericum_Berries_Small.jpg",
+        "largeImageUrl": "https://s3.amazonaws.com/flowershades/assets/images/green/Hypericum_Berries_Large.jpg"
+    }
+],
+"black" : [
+    { 
+        "name" : "Hellebores",
+        "scientificName": "Helleborus",
+        "shortDescription" : "Helleborus is a perennial with leathery leaves that protect a circle of tiny stamen-like petals. They have a long blooming period, lasting anywhere from 6 to 8 weeks and ranging in color from white to purple.",
+        "smallImageUrl": "https://s3.amazonaws.com/flowershades/assets/images/black/Hellebores_Small.jpg",
+        "largeImageUrl": "https://s3.amazonaws.com/flowershades/assets/images/black/Hellebores_Large.jpg"
+    },
+    { 
+        "name" : "Bat Flower",
+        "scientificName": "Tacca chantieri",
+        "shortDescription" : "Bat Flower is an unusual looking flower that looks similar to a bat in flight with ruffled wings and long filaments. The blooms are large and do best in semi-tropical climates.",
+        "smallImageUrl": "https://s3.amazonaws.com/flowershades/assets/images/black/Bat_Flower_Small.jpg",
+        "largeImageUrl": "https://s3.amazonaws.com/flowershades/assets/images/black/Bat_Flower_Large.jpg"
+    }
+]
+}

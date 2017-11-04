@@ -1,0 +1,13 @@
+{ "intents": [
+    { "intent": "GetFlowerWithColorIntent",
+    	"slots": [
+        	{
+          	"name": "Color",
+          	"type": "LIST_OF_COLORS"
+        	}
+        ]
+    },
+    { "intent": "AMAZON.HelpIntent" },
+    { "intent": "AMAZON.StopIntent" },
+    { "intent": "AMAZON.CancelIntent" }
+]}

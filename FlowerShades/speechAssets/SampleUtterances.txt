@@ -1,0 +1,5 @@
+GetFlowerWithColorIntent tell me about a {Color} flower
+GetFlowerWithColorIntent tell me about a flower which is {Color}
+GetFlowerWithColorIntent tell me a {Color} flower
+GetFlowerWithColorIntent give me details about a {Color} flower
+GetFlowerWithColorIntent give me details about a flower which is {Color}
