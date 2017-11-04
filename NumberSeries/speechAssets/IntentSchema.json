@@ -1,0 +1,26 @@
+{ "intents": [
+    { "intent": "StartGameIntent",
+        "slots": [
+            {
+            "name": "Start",
+            "type": "LIST_OF_START"
+            },
+            {
+            "name": "Series",
+            "type": "LIST_OF_SERIES"
+            }
+        ]
+    },
+    { "intent": "InputChoiceIntent",
+    	"slots": [
+        	{
+          	"name": "Input",
+          	"type": "AMAZON.NUMBER"
+        	}
+        ]
+    },
+    { "intent": "AMAZON.HelpIntent" },
+    { "intent": "AMAZON.StopIntent" },
+    { "intent": "AMAZON.CancelIntent" },
+    { "intent": "AMAZON.StartOverIntent" }
+]}

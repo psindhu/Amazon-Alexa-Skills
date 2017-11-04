@@ -1,0 +1,3 @@
+StartGameIntent {Start} {Series}
+
+InputChoiceIntent {Input}
