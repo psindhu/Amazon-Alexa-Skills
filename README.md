@@ -5,7 +5,7 @@ Amazon Alexa Skills for Amazon Echo devices
 Get to know about latest Unofficial Apple Developer News. Details on news are shown in Amazon Alexa Application.
 Note: This skill is not affiliated to Apple.
 
-# Flower Shaded
+# Flower Shades
 Know about a random flower by specifying the color. Photos of flowers are made available in companion Amazon Alexa app together with it's scientific name.
 
 # Number Series
